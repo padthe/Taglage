@@ -1,0 +1,16 @@
+.env
+.venv
+.replace.txt
+*.pyc
+__pycache__/
+
+
+*.log
+
+
+venv/
+env/
+
+
+.DS_Store
+Thumbs.db
