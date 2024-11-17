@@ -3,7 +3,9 @@ __pycache__/
 *.pyc
 replace.txt
 .venv
+myenv/
 
 
-replace.txt
-.env
+replace.txt 
+.env 
+test.py
